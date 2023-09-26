@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iambary44
-- 👀 I’m interested in ...
-- � Development contribution
+- 👀  this is your final Signature
 
 <!---
 iambary44/iambary44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
